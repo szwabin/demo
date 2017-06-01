@@ -1,4 +1,6 @@
 # demo
+#### Janusz Szwabiński, 1.06.2017
+
 
 This repository is for teaching purposes only.
 
